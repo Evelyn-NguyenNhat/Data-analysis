@@ -28,3 +28,5 @@ print(df_cleaned.head())  # In ra 5 dòng đầu tiên sau khi làm sạch
 
 # 8. Lưu lại dữ liệu đã được làm sạch
 df_cleaned.to_csv('cleaned_sample_data.csv', index=False)
+
+#thay doi dulieu
