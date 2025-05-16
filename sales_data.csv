@@ -1,0 +1,9 @@
+transaction_id,customer_id,product,category,quantity,price,date
+1001,C001,iPhone 14,electronics,1,999,2025-01-01
+1002,C002,T-shirt,fashion,2,25,2025-01-02
+1003,C001,Headphones,electronics,1,199,2025-01-03
+1004,C003,Running Shoes,fashion,1,120,2025-01-04
+1005,C002,Rice Cooker,home_appliances,1,80,2025-01-05
+1006,C004,Laptop,electronics,1,1200,2025-01-06
+1007,C001,T-shirt,fashion,3,25,2025-01-07
+1008,C005,Refrigerator,home_appliances,1,500,2025-01-08
